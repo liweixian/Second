@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
+#单元测试
 * text=auto
